@@ -22,6 +22,8 @@ export default function Login(){
 
                 <NavLink to="/Register">Register</NavLink>
             </form>
+
+            <img src="/angel.jpg"></img>
         </div>
     );
     
